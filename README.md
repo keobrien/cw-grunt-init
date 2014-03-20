@@ -34,3 +34,15 @@ By default this grunt task does the following. Assuming your theme is in the fol
  * Optimizes all images(this overwrite them) in  `/htdocs/amm/themes/default_2014/images`
   
 You can also type `grunt watch` and it will handle checking your javascript and concatenating it as you edit. We generate a .map file for your minified scripts so debugging isn't completely impossible. 
+
+Wishlist:
+====
+
+  * Integrate this directly into our theme creation process 
+  * Sass support
+  * Be able to easily switch between production builds and dev builds
+  * Javascript Unit Test!
+  * Integrate with gitsync
+  * jenkins?
+  * notify https://www.npmjs.org/package/grunt-notify
+  * Other magical things
