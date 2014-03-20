@@ -13,7 +13,7 @@ Prerequisits:
 
 Now that you have that in place, setting up new projects will be much easier. 
 
-Grab your theme directory from pion, using whatever method you wish. I'm a fan of gitsync, so I'm going to assume you have that up and running. I'd add node_modules to your gitsync ignore list going forward as well. 
+Grab your theme directory from the dev server, using whatever method you wish. I'm a fan of gitsync, so I'm going to assume you have that up and running. I'd add node_modules to your gitsync ignore list going forward as well. 
 
 cd into your themes directory. Once at the top level. run the following commands. 
 
